@@ -1,5 +1,5 @@
 <?php
 
-echo "Hellow from Azure!";
+echo "Telma says hello from Azure!";
 
 ?>
